@@ -1,0 +1,4 @@
+alice,$2b$12$7ipJ1HMRWD6GUub7npTSceN.QmZ/mcT0vLSEKfHk4fDLTVYlhGvTC
+bob,$2b$12$/QLwW4yWAYL7eVr71xUip.sPEW7FSDqjplWy/8M2c9tjoiEf0JSii
+bob,$2b$12$eRXV655vqfB5ZAK6hTL7A..I.ACKqHLHelBl9yXVdqkZOQ8/zEHJi
+alice,$2b$12$L/6ab1hL/UCrM8/z6Zo3vuRixTmYIbVy3xjjBdlaE0L0fbQx/XBtm
